@@ -2,7 +2,7 @@ package com.limluc.vc2wt.wt;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.limluc.vc2wt.model.Versionable;
+import com.limluc.vc2wt.service.Versionable;
 
 import java.io.Serializable;
 import java.util.Map;
